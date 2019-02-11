@@ -1,0 +1,1 @@
+jar cvfm server.jar manifest.txt @sources2.txt

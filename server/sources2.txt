@@ -1,0 +1,10 @@
+bin\database\AccountManager.class
+bin\database\DatabaseConnect.class
+bin\game\Game.class
+bin\main\Client.class
+bin\main\Config.class
+bin\main\ServerStart.class
+bin\network\AcceptClients.class
+bin\network\Account.class
+bin\network\Get.class
+bin\network\Send.class
