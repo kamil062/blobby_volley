@@ -7,7 +7,7 @@ import org.jsfml.graphics.Font;
 
 /**
  * Klasa s³u¿y do ³adowania czcionki z pliki i do jej obs³ugi
- * @author Sebastian Opoka
+ * @author Kamil Piec
  */
 public class LoadFont {
 	/** Pole przechowuj¹ce czcionkê */
